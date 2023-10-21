@@ -1,0 +1,1 @@
+This is done for the QR Code Component challenge on Frontend Mentor
